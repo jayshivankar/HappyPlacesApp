@@ -6,7 +6,7 @@
         <item name = "colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name = "AppBarTheme" parent = "@style/Theme.AppCompat.Light.NoActionBar">
+    <style name = "AppBarTheme" parent = "@style/Theme.AppCompat.Light.DarkActionBar">
         <item name = "android:statusBarColor">@color/colorPrimaryDark</item>
     </style>
 
