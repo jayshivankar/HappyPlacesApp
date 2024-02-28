@@ -11,8 +11,8 @@
     </style>
 
     <style name = "CustomToolStyle">
-        <item name = "android:textColorPrimary">@color/white</item>\
-        <item name = "android:colorControlNormal">@color/white</item>
+        <item name = "android:textColorPrimary">@color/white_color</item>
+        <item name = "android:colorControlNormal">@color/white_color</item>
     </style>
 
 
