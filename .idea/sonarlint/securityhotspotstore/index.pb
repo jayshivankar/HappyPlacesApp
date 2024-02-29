@@ -7,7 +7,7 @@ P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 i
 9app/src/main/java/com/example/happyplaces/MainActivity.kt,6/7/67f4b6c20b60bcd082a81a45cfe446f517dbba8d
-t
-Dapp/src/main/java/com/example/happyplaces/AddHappyPlaceActivity.java,0/4/04f6028af587812dfb7f0fc5f1a65b098a809e79
 u
 Eapp/src/main/java/com/example/happyplaces/HappyPlaceDetailActivity.kt,c/b/cb3c6dd83f1d976f4d4c2b8959802ce03b410123
+h
+8app/src/main/java/com/example/happyplaces/MapActivity.kt,1/b/1b232392d6087e3d3d15e534dbf1187829b92b2b
